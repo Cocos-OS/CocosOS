@@ -5,7 +5,7 @@ CocosOS is a minimalist and experimental 32-bit operating system designed to rev
 It's designed as a laboratory of ideas, featuring integrated apps, a GUI like GNOME Shell with scripting in Lua 5.4, But it's being changed to make it more practical for everyday use.
 
 > [!CAUTION]
-> This repository will then be moved to GitLab on January 1st.
+> Well, this was abandoned, and I think it fell just like Rome—except that, instead of being a long process, it was very short.
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/david-tech-404/CocosOS) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/invite/mEZwx7rNbn) ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/daviddandadan)
 
